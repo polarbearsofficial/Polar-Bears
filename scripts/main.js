@@ -32,7 +32,7 @@ var correct = 0;
 	}
 
 var messages = ["Great job!", "That's just okay", "You really need to do better"];
-var pictures = ["assets/win.png", "assets/meh.png", "assets/fail.PNG"];
+var pictures = ["assets/win.png", "assets/meh.png", "assets/fail.png"];
 
 var range;
 
